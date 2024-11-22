@@ -1,0 +1,328 @@
+[
+  {
+    "id": 1,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si conduces sin licencia de conducción en Colombia?",
+    "options": [
+      "Multa económica y retención del vehículo",
+      "Advertencia verbal",
+      "No hay sanción si es la primera vez"
+    ],
+    "answer": "Multa económica y retención del vehículo"
+  },
+  {
+    "id": 2,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Cuál es la multa por exceder el límite de velocidad en zonas urbanas?",
+    "options": [
+      "Multa de 15 salarios mínimos diarios legales vigentes",
+      "Multa de 4 salarios mínimos diarios legales vigentes",
+      "Multa de 10 salarios mínimos diarios legales vigentes"
+    ],
+    "answer": "Multa de 4 salarios mínimos diarios legales vigentes"
+  },
+  {
+    "id": 3,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué autoridad es competente para imponer sanciones de tránsito?",
+    "options": [
+      "Policía Nacional",
+      "Agentes de tránsito autorizados",
+      "Cualquier funcionario público"
+    ],
+    "answer": "Agentes de tránsito autorizados"
+  },
+  {
+    "id": 4,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción aplica si se conduce bajo los efectos del alcohol?",
+    "options": [
+      "Suspensión de la licencia y multa económica",
+      "Advertencia verbal",
+      "Reclusión obligatoria por 24 horas"
+    ],
+    "answer": "Suspensión de la licencia y multa económica"
+  },
+  {
+    "id": 5,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué pasa si no se porta el Seguro Obligatorio de Accidentes de Tránsito (SOAT)?",
+    "options": [
+      "El vehículo es inmovilizado y se aplica una multa",
+      "Solo se emite una advertencia",
+      "No hay sanción si se demuestra que está vigente"
+    ],
+    "answer": "El vehículo es inmovilizado y se aplica una multa"
+  },
+  {
+    "id": 6,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si no se realiza la revisión técnico-mecánica a tiempo?",
+    "options": [
+      "El vehículo puede ser inmovilizado y se aplica una multa",
+      "No se permite conducir de noche",
+      "Se emite una advertencia sin multa"
+    ],
+    "answer": "El vehículo puede ser inmovilizado y se aplica una multa"
+  },
+  {
+    "id": 7,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué multa aplica si se utiliza el celular mientras se conduce?",
+    "options": [
+      "Multa de 8 salarios mínimos diarios legales vigentes",
+      "Suspensión de la licencia por 6 meses",
+      "Multa de 10 salarios mínimos diarios legales vigentes"
+    ],
+    "answer": "Multa de 8 salarios mínimos diarios legales vigentes"
+  },
+  {
+    "id": 8,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción se aplica por no respetar un semáforo en rojo?",
+    "options": [
+      "Multa de 4 salarios mínimos diarios legales vigentes",
+      "Suspensión de la licencia por 1 año",
+      "Reclusión obligatoria por 24 horas"
+    ],
+    "answer": "Multa de 4 salarios mínimos diarios legales vigentes"
+  },
+  {
+    "id": 9,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué debe hacer un conductor si es sancionado en una ciudad diferente a la de su residencia?",
+    "options": [
+      "Pagar la multa en la ciudad donde fue impuesta",
+      "Esperar a que se transfiera a su lugar de residencia",
+      "Solicitar la anulación de la multa"
+    ],
+    "answer": "Pagar la multa en la ciudad donde fue impuesta"
+  },
+  {
+    "id": 10,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si un conductor acumula muchas infracciones y puntos en su licencia?",
+    "options": [
+      "La licencia puede ser suspendida o cancelada",
+      "Debe asistir a una charla de educación vial",
+      "Recibe una advertencia por parte de las autoridades"
+    ],
+    "answer": "La licencia puede ser suspendida o cancelada"
+  },
+  {
+    "id": 11,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si un conductor no paga una multa dentro del plazo establecido?",
+    "options": [
+      "Se genera un recargo por mora",
+      "La multa es anulada automáticamente",
+      "Debe realizar un curso de educación vial"
+    ],
+    "answer": "Se genera un recargo por mora"
+  },
+  {
+    "id": 12,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Cuál es la multa por conducir un vehículo sin revisión técnico-mecánica vigente?",
+    "options": [
+      "Multa de 15 salarios mínimos diarios legales vigentes",
+      "Multa de 4 salarios mínimos diarios legales vigentes",
+      "Multa de 10 salarios mínimos diarios legales vigentes"
+    ],
+    "answer": "Multa de 15 salarios mínimos diarios legales vigentes"
+  },
+  {
+    "id": 13,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué ocurre si se conduce un vehículo sin placas visibles?",
+    "options": [
+      "El vehículo es inmovilizado y se aplica una multa",
+      "Solo se emite una advertencia",
+      "La multa es menor si el conductor tiene documentos al día"
+    ],
+    "answer": "El vehículo es inmovilizado y se aplica una multa"
+  },
+  {
+    "id": 14,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción aplica si un conductor no respeta un paso peatonal?",
+    "options": [
+      "Multa económica y posible suspensión de la licencia",
+      "Advertencia verbal",
+      "Reclusión obligatoria por 24 horas"
+    ],
+    "answer": "Multa económica y posible suspensión de la licencia"
+  },
+  {
+    "id": 15,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué ocurre si un conductor es sorprendido realizando un giro prohibido?",
+    "options": [
+      "Se aplica una multa económica",
+      "Se le retira la licencia inmediatamente",
+      "Debe asistir a un curso de educación vial obligatorio"
+    ],
+    "answer": "Se aplica una multa económica"
+  },
+  {
+    "id": 16,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué multa aplica si un motociclista no usa casco de seguridad?",
+    "options": [
+      "Multa de 15 salarios mínimos diarios legales vigentes",
+      "Suspensión de la licencia",
+      "Inmovilización de la motocicleta"
+    ],
+    "answer": "Multa de 15 salarios mínimos diarios legales vigentes"
+  },
+  {
+    "id": 17,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción aplica si se transportan niños menores en el asiento delantero?",
+    "options": [
+      "Multa económica",
+      "Suspensión de la licencia por 6 meses",
+      "Advertencia verbal"
+    ],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 18,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si se conduce un vehículo sin póliza de responsabilidad civil?",
+    "options": [
+      "El vehículo es inmovilizado y se aplica una multa",
+      "El conductor es arrestado",
+      "La multa es menor si no hubo accidente"
+    ],
+    "answer": "El vehículo es inmovilizado y se aplica una multa"
+  },
+  {
+    "id": 19,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué multa aplica si un conductor no obedece las señales de un agente de tránsito?",
+    "options": [
+      "Multa económica",
+      "Suspensión inmediata de la licencia",
+      "Advertencia verbal"
+    ],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 20,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si un conductor reincide en conducir en estado de embriaguez?",
+    "options": [
+      "La licencia es cancelada definitivamente",
+      "Debe realizar un curso de educación vial",
+      "Recibe una multa menor"
+    ],
+    "answer": "La licencia es cancelada definitivamente"
+  },
+  {
+    "id": 21,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si un conductor excede el límite de velocidad en una zona escolar?",
+    "options": [
+      "Se aplica una multa económica mayor",
+      "Debe asistir a un curso de educación vial",
+      "Solo se emite una advertencia"
+    ],
+    "answer": "Se aplica una multa económica mayor"
+  },
+  {
+    "id": 22,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción aplica si se conduce un vehículo con luces en mal estado?",
+    "options": [
+      "Multa económica",
+      "Inmovilización del vehículo",
+      "Advertencia sin multa"
+    ],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 23,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué debe hacer un conductor para evitar que su vehículo sea inmovilizado tras una infracción?",
+    "options": [
+      "Pagar la multa de inmediato",
+      "Tener al día todos los documentos del vehículo",
+      "Solicitar una revisión al agente de tránsito"
+    ],
+    "answer": "Tener al día todos los documentos del vehículo"
+  },
+  {
+    "id": 24,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué pasa si un vehículo es inmovilizado por una infracción?",
+    "options": [
+      "Debe ser retirado del patio tras el pago de la multa",
+      "Se cancela la licencia del conductor",
+      "Se emite una advertencia al propietario"
+    ],
+    "answer": "Debe ser retirado del patio tras el pago de la multa"
+  },
+  {
+    "id": 25,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué ocurre si un conductor altera las placas del vehículo?",
+    "options": [
+      "El vehículo es inmovilizado y la licencia es cancelada",
+      "Debe pagar una multa menor",
+      "Recibe solo una advertencia"
+    ],
+    "answer": "El vehículo es inmovilizado y la licencia es cancelada"
+  },
+  {
+    "id": 26,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué multa aplica por bloquear una intersección?",
+    "options": [
+      "Multa económica",
+      "Suspensión de la licencia",
+      "Advertencia sin multa"
+    ],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 27,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sanción aplica si un conductor arroja basura desde el vehículo?",
+    "options": ["Multa económica", "Advertencia verbal", "No aplica sanción"],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 28,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué pasa si un conductor no respeta el carril exclusivo para transporte público?",
+    "options": [
+      "Multa económica",
+      "Suspensión de la licencia",
+      "Advertencia sin multa"
+    ],
+    "answer": "Multa económica"
+  },
+  {
+    "id": 29,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué sucede si un conductor estaciona en un lugar prohibido?",
+    "options": [
+      "El vehículo puede ser inmovilizado",
+      "Se le advierte verbalmente",
+      "No hay sanción si no interfiere el tráfico"
+    ],
+    "answer": "El vehículo puede ser inmovilizado"
+  },
+  {
+    "id": 30,
+    "category": "Multas, sanciones y procedimientos",
+    "question": "¿Qué multa aplica si un conductor no lleva consigo su cédula de ciudadanía?",
+    "options": [
+      "Advertencia sin multa",
+      "Multa económica",
+      "Inmovilización del vehículo"
+    ],
+    "answer": "Advertencia sin multa"
+  }
+]

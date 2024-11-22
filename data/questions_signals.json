@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con bordes rojos y un símbolo de ciervo?",
+    "options": ["Prohibido el paso", "Cruce de ciervos", "Zona residencial"],
+    "answer": "Cruce de ciervos"
+  },
+  {
+    "id": 2,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal de fondo azul con una letra 'P'?",
+    "options": [
+      "Prohibido estacionar",
+      "Área de estacionamiento permitido",
+      "Parada de transporte público"
+    ],
+    "answer": "Área de estacionamiento permitido"
+  },
+  {
+    "id": 3,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal circular con una línea diagonal roja?",
+    "options": ["Obligación", "Restricción", "Fin de la vía"],
+    "answer": "Restricción"
+  },
+  {
+    "id": 4,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal cuadrada azul con un icono de gasolinera?",
+    "options": ["Gasolinera próxima", "Zona de descanso", "Prohibido repostar"],
+    "answer": "Gasolinera próxima"
+  },
+  {
+    "id": 5,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con un tren?",
+    "options": [
+      "Paso a nivel sin barreras",
+      "Prohibido el paso",
+      "Zona de carga"
+    ],
+    "answer": "Paso a nivel sin barreras"
+  },
+  {
+    "id": 6,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal circular con una bicicleta dentro y una línea roja cruzada?",
+    "options": [
+      "Zona para bicicletas",
+      "Prohibido el paso de bicicletas",
+      "Área de bicicletas"
+    ],
+    "answer": "Prohibido el paso de bicicletas"
+  },
+  {
+    "id": 7,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal de velocidad con un número dentro de un círculo rojo?",
+    "options": [
+      "Límite de velocidad máxima",
+      "Velocidad recomendada",
+      "Velocidad mínima"
+    ],
+    "answer": "Límite de velocidad máxima"
+  },
+  {
+    "id": 8,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal de fondo amarillo con un símbolo de niños cruzando?",
+    "options": ["Escuela próxima", "Cruce peatonal", "Zona residencial"],
+    "answer": "Escuela próxima"
+  },
+  {
+    "id": 9,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal triangular con una exclamación dentro?",
+    "options": ["Precaución general", "Prohibido el paso", "Alto obligatorio"],
+    "answer": "Precaución general"
+  },
+  {
+    "id": 10,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal cuadrada azul con un autobús?",
+    "options": ["Parada de autobús", "Prohibido autobuses", "Zona de carga"],
+    "answer": "Parada de autobús"
+  },
+  {
+    "id": 11,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con un coche cayendo al agua?",
+    "options": [
+      "Carretera inundada",
+      "Proximidad a un puente levadizo",
+      "Riesgo de caída al agua"
+    ],
+    "answer": "Riesgo de caída al agua"
+  },
+  {
+    "id": 12,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal circular con una línea roja y un número negativo?",
+    "options": [
+      "Prohibido vehículos menores",
+      "Prohibido peso máximo",
+      "Prohibido sobrepeso"
+    ],
+    "answer": "Prohibido sobrepeso"
+  },
+  {
+    "id": 13,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal rectangular verde con el nombre de una ciudad?",
+    "options": [
+      "Entrada a la ciudad",
+      "Distancia a la ciudad",
+      "Fin de la carretera"
+    ],
+    "answer": "Entrada a la ciudad"
+  },
+  {
+    "id": 14,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal cuadrada azul con un coche blanco?",
+    "options": ["Carretera principal", "Carretera secundaria", "Autopista"],
+    "answer": "Autopista"
+  },
+  {
+    "id": 15,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal de fondo blanco con un camión dentro de un círculo rojo?",
+    "options": [
+      "Prohibido vehículos de carga",
+      "Zona para camiones",
+      "Restricción de peso"
+    ],
+    "answer": "Prohibido vehículos de carga"
+  },
+  {
+    "id": 16,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con un símbolo de piedras cayendo?",
+    "options": [
+      "Carretera en mal estado",
+      "Zona montañosa",
+      "Desprendimiento de rocas"
+    ],
+    "answer": "Desprendimiento de rocas"
+  },
+  {
+    "id": 17,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal de fondo azul con una figura de avión?",
+    "options": [
+      "Aeropuerto próximo",
+      "Prohibido sobrevolar",
+      "Zona de carga aérea"
+    ],
+    "answer": "Aeropuerto próximo"
+  },
+  {
+    "id": 18,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal circular con una flecha en forma de U y una línea roja cruzada?",
+    "options": ["Giro permitido", "Prohibido girar en U", "Zona de retorno"],
+    "answer": "Prohibido girar en U"
+  },
+  {
+    "id": 19,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal triangular con bordes rojos y una curva en S?",
+    "options": [
+      "Carretera sinuosa",
+      "Zona de construcción",
+      "Desvío obligatorio"
+    ],
+    "answer": "Carretera sinuosa"
+  },
+  {
+    "id": 20,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con un símbolo de tractor?",
+    "options": [
+      "Zona agrícola",
+      "Máquinas pesadas",
+      "Prohibido vehículos agrícolas"
+    ],
+    "answer": "Zona agrícola"
+  },
+  {
+    "id": 21,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal circular con dos flechas girando en círculo?",
+    "options": [
+      "Rotonda próxima",
+      "Desvío obligatorio",
+      "Zona de tráfico lento"
+    ],
+    "answer": "Rotonda próxima"
+  },
+  {
+    "id": 22,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal rectangular blanca con líneas negras paralelas horizontales?",
+    "options": ["Paso de cebra", "Zona escolar", "Prohibido estacionar"],
+    "answer": "Paso de cebra"
+  },
+  {
+    "id": 23,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal triangular con bordes rojos y una tortuga?",
+    "options": [
+      "Precaución por animales lentos",
+      "Zona escolar",
+      "Riesgo de cruce de animales"
+    ],
+    "answer": "Precaución por animales lentos"
+  },
+  {
+    "id": 24,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con un auto y un zigzag?",
+    "options": [
+      "Carretera resbaladiza",
+      "Carretera sinuosa",
+      "Prohibido vehículos ligeros"
+    ],
+    "answer": "Carretera resbaladiza"
+  },
+  {
+    "id": 25,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal cuadrada azul con una flecha hacia arriba?",
+    "options": ["Siga de frente", "Carril exclusivo", "Giro obligatorio"],
+    "answer": "Siga de frente"
+  },
+  {
+    "id": 26,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal rectangular amarilla con un camión cuesta abajo?",
+    "options": [
+      "Pendiente pronunciada",
+      "Prohibido vehículos pesados",
+      "Zona de carga"
+    ],
+    "answer": "Pendiente pronunciada"
+  },
+  {
+    "id": 27,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal de fondo azul con una cruz blanca?",
+    "options": ["Hospital próximo", "Zona escolar", "Prohibido estacionar"],
+    "answer": "Hospital próximo"
+  },
+  {
+    "id": 28,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal triangular con bordes rojos y un semáforo en el centro?",
+    "options": ["Semáforo próximo", "Alto obligatorio", "Zona escolar"],
+    "answer": "Semáforo próximo"
+  },
+  {
+    "id": 29,
+    "category": "Señales de tránsito",
+    "question": "¿Qué significa una señal circular roja con una barra blanca horizontal?",
+    "options": [
+      "Prohibido el paso",
+      "Carril exclusivo",
+      "Prohibido estacionar"
+    ],
+    "answer": "Prohibido el paso"
+  },
+  {
+    "id": 30,
+    "category": "Señales de tránsito",
+    "question": "¿Qué indica una señal rectangular azul con una mesa y bancos?",
+    "options": ["Zona de descanso", "Zona residencial", "Prohibido detenerse"],
+    "answer": "Zona de descanso"
+  }
+]

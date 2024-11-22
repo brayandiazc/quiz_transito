@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Quiz de Tránsito</title>
+  </head>
+  <body>
+    <div id="app">
+      <!-- Pantalla de inicio -->
+      <div id="start-screen">
+        <h1>¡Bienvenido al Quiz de Tránsito!</h1>
+        <label for="username">Ingresa tu nombre:</label>
+        <input type="text" id="username" placeholder="Tu nombre" />
+        <label for="category">Selecciona una categoría:</label>
+        <select id="category">
+          <option value="questions_signals">Señales de tránsito</option>
+          <option value="questions_norms">Normas de tránsito</option>
+          <option value="questions_safety">Seguridad vial</option>
+          <option value="questions_mechanics">Mecánica básica</option>
+          <option value="questions_penalties">Multas y sanciones</option>
+        </select>
+        <button id="start-btn">Iniciar</button>
+      </div>
+
+      <!-- Pantalla del cuestionario -->
+      <div id="quiz-screen" style="display: none">
+        <h2 id="question-title"></h2>
+        <div id="options-container"></div>
+        <button id="next-btn" disabled>Siguiente</button>
+      </div>
+
+      <!-- Pantalla de resultados -->
+      <div id="result-screen" style="display: none">
+        <h2>Resultado Final</h2>
+        <p id="score"></p>
+        <button id="restart-btn">Reiniciar</button>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

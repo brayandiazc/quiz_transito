@@ -1,0 +1,316 @@
+[
+  {
+    "id": 1,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Cuál es el límite de velocidad permitido en zonas urbanas en Colombia?",
+    "options": ["30 km/h", "50 km/h", "60 km/h"],
+    "answer": "50 km/h"
+  },
+  {
+    "id": 2,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué se debe hacer al llegar a una señal de PARE?",
+    "options": [
+      "Reducir la velocidad y avanzar",
+      "Detenerse completamente y ceder el paso",
+      "Continuar si no hay vehículos"
+    ],
+    "answer": "Detenerse completamente y ceder el paso"
+  },
+  {
+    "id": 3,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "En un cruce sin semáforo ni señalización, ¿quién tiene la prioridad?",
+    "options": [
+      "El vehículo más grande",
+      "El que llega primero",
+      "El que se acerca por la derecha"
+    ],
+    "answer": "El que se acerca por la derecha"
+  },
+  {
+    "id": 4,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa una línea amarilla continua en el centro de la vía?",
+    "options": [
+      "Prohibido adelantar",
+      "Permitido adelantar con precaución",
+      "Carril exclusivo"
+    ],
+    "answer": "Prohibido adelantar"
+  },
+  {
+    "id": 5,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué indica una línea blanca discontinua en el centro de la carretera?",
+    "options": [
+      "Carril exclusivo",
+      "Permitido adelantar",
+      "Prohibido adelantar"
+    ],
+    "answer": "Permitido adelantar"
+  },
+  {
+    "id": 6,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué distancia mínima debe mantenerse entre dos vehículos en movimiento?",
+    "options": [
+      "1 metro",
+      "2 metros",
+      "Distancia suficiente para frenar con seguridad"
+    ],
+    "answer": "Distancia suficiente para frenar con seguridad"
+  },
+  {
+    "id": 7,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor cuando un vehículo de emergencia con luces y sirena encendidas se aproxima?",
+    "options": [
+      "Acelerar para dejar espacio",
+      "Detenerse completamente",
+      "Ceder el paso de inmediato"
+    ],
+    "answer": "Ceder el paso de inmediato"
+  },
+  {
+    "id": 8,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué vehículos tienen prioridad en una rotonda?",
+    "options": [
+      "Los que están dentro de la rotonda",
+      "Los que entran a la rotonda",
+      "Los vehículos más grandes"
+    ],
+    "answer": "Los que están dentro de la rotonda"
+  },
+  {
+    "id": 9,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor al aproximarse a un cruce ferroviario sin barreras?",
+    "options": [
+      "Frenar completamente y mirar ambos lados",
+      "Cruzar rápidamente",
+      "Detenerse solo si hay un tren cerca"
+    ],
+    "answer": "Frenar completamente y mirar ambos lados"
+  },
+  {
+    "id": 10,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿En qué casos se permite estacionar en una vía pública?",
+    "options": [
+      "En cualquier lugar con espacio suficiente",
+      "En zonas permitidas y señalizadas",
+      "Junto a una línea amarilla"
+    ],
+    "answer": "En zonas permitidas y señalizadas"
+  },
+  {
+    "id": 11,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor si se encuentra con un semáforo intermitente en amarillo?",
+    "options": [
+      "Detenerse completamente",
+      "Cruzar con precaución",
+      "Acelerar para no causar tráfico"
+    ],
+    "answer": "Cruzar con precaución"
+  },
+  {
+    "id": 12,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa el uso de las luces intermitentes de emergencia en un vehículo?",
+    "options": [
+      "Advertencia de peligro o detención",
+      "Uso exclusivo en la noche",
+      "Indicador de giro"
+    ],
+    "answer": "Advertencia de peligro o detención"
+  },
+  {
+    "id": 13,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Cuándo se debe ceder el paso a los peatones?",
+    "options": [
+      "Siempre, en cualquier situación",
+      "Solo en pasos de cebra",
+      "Cuando no haya vehículos detrás"
+    ],
+    "answer": "Siempre, en cualquier situación"
+  },
+  {
+    "id": 14,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor al cambiar de carril?",
+    "options": [
+      "Usar las luces direccionales y asegurarse de que es seguro",
+      "Cambiar rápidamente sin detenerse",
+      "Tocar la bocina para advertir a otros conductores"
+    ],
+    "answer": "Usar las luces direccionales y asegurarse de que es seguro"
+  },
+  {
+    "id": 15,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa un semáforo en rojo?",
+    "options": ["Reducir la velocidad", "Alto total", "Cruzar con precaución"],
+    "answer": "Alto total"
+  },
+  {
+    "id": 16,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué vehículos tienen prioridad en una intersección donde no hay señalización?",
+    "options": [
+      "Los que vienen por la derecha",
+      "Los vehículos más grandes",
+      "Los vehículos de carga"
+    ],
+    "answer": "Los que vienen por la derecha"
+  },
+  {
+    "id": 17,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor si sufre una avería en carretera?",
+    "options": [
+      "Continuar lentamente hasta encontrar ayuda",
+      "Detenerse en un lugar seguro y señalizar con triángulos",
+      "Esperar en el carril de circulación"
+    ],
+    "answer": "Detenerse en un lugar seguro y señalizar con triángulos"
+  },
+  {
+    "id": 18,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa una señal de tránsito con la leyenda 'Ceda el paso'?",
+    "options": [
+      "Prohibido el paso",
+      "Ceder la prioridad a otros vehículos",
+      "Cruzar rápidamente"
+    ],
+    "answer": "Ceder la prioridad a otros vehículos"
+  },
+  {
+    "id": 19,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué indica una línea doble amarilla continua en el centro de la vía?",
+    "options": [
+      "Zona escolar",
+      "Prohibido adelantar en ambos sentidos",
+      "Carril exclusivo"
+    ],
+    "answer": "Prohibido adelantar en ambos sentidos"
+  },
+  {
+    "id": 20,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor al pasar cerca de una zona escolar?",
+    "options": [
+      "Acelerar para pasar rápidamente",
+      "Reducir la velocidad y estar atento",
+      "Tocar la bocina para advertir a los niños"
+    ],
+    "answer": "Reducir la velocidad y estar atento"
+  },
+  {
+    "id": 21,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa una señal triangular con un símbolo de puente estrecho?",
+    "options": ["Puente próximo", "Carril angosto", "Zona peligrosa"],
+    "answer": "Puente próximo"
+  },
+  {
+    "id": 22,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Cuándo es obligatorio usar luces bajas?",
+    "options": [
+      "Solo en la noche",
+      "En túneles y condiciones de baja visibilidad",
+      "Cuando no hay otros vehículos"
+    ],
+    "answer": "En túneles y condiciones de baja visibilidad"
+  },
+  {
+    "id": 23,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa una línea blanca continua en el centro de la carretera?",
+    "options": ["Carril exclusivo", "Prohibido adelantar", "Zona de giro"],
+    "answer": "Prohibido adelantar"
+  },
+  {
+    "id": 24,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor al acercarse a un paso peatonal elevado?",
+    "options": [
+      "Acelerar para cruzar rápidamente",
+      "Reducir la velocidad y ceder el paso a peatones",
+      "Tocar la bocina para advertir a los peatones"
+    ],
+    "answer": "Reducir la velocidad y ceder el paso a peatones"
+  },
+  {
+    "id": 25,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué indica una señal de tránsito con un círculo rojo y un número?",
+    "options": [
+      "Velocidad mínima permitida",
+      "Límite de velocidad máxima",
+      "Zona de alto"
+    ],
+    "answer": "Límite de velocidad máxima"
+  },
+  {
+    "id": 26,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué vehículos tienen prioridad en un cruce con una señal de 'Ceda el paso'?",
+    "options": [
+      "Los que ya están en el cruce",
+      "Los vehículos de carga",
+      "Los que se acercan por la derecha"
+    ],
+    "answer": "Los que ya están en el cruce"
+  },
+  {
+    "id": 27,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa una línea blanca discontinua en una rotonda?",
+    "options": [
+      "Zona de giro permitido",
+      "Zona de paso exclusivo",
+      "Cambio de carril permitido"
+    ],
+    "answer": "Cambio de carril permitido"
+  },
+  {
+    "id": 28,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué debe hacer un conductor si ve una señal triangular con un símbolo de curva?",
+    "options": [
+      "Reducir la velocidad",
+      "Acelerar para evitar el riesgo",
+      "Ignorar si no hay tráfico"
+    ],
+    "answer": "Reducir la velocidad"
+  },
+  {
+    "id": 29,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué se debe hacer al llegar a un cruce con un semáforo en verde?",
+    "options": [
+      "Avanzar siempre",
+      "Cruzar solo si la vía está libre",
+      "Esperar si hay otros vehículos detrás"
+    ],
+    "answer": "Cruzar solo si la vía está libre"
+  },
+  {
+    "id": 30,
+    "category": "Normas de tránsito y comportamiento vial",
+    "question": "¿Qué significa un semáforo en amarillo fijo?",
+    "options": [
+      "Precaución, el semáforo cambiará a rojo",
+      "Cruzar rápidamente",
+      "Detenerse inmediatamente"
+    ],
+    "answer": "Precaución, el semáforo cambiará a rojo"
+  }
+]

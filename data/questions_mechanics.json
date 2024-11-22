@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué función tiene el líquido de frenos en un vehículo?",
+    "options": [
+      "Lubricar el motor",
+      "Transmitir presión para frenar el vehículo",
+      "Enfriar las pastillas de freno"
+    ],
+    "answer": "Transmitir presión para frenar el vehículo"
+  },
+  {
+    "id": 2,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué se debe revisar periódicamente en los neumáticos?",
+    "options": [
+      "La marca del fabricante",
+      "La presión y el desgaste",
+      "La velocidad máxima indicada"
+    ],
+    "answer": "La presión y el desgaste"
+  },
+  {
+    "id": 3,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué indica el testigo de batería encendido en el tablero?",
+    "options": [
+      "Fallo en el alternador o sistema eléctrico",
+      "Baja presión de aceite",
+      "Fallos en los frenos"
+    ],
+    "answer": "Fallo en el alternador o sistema eléctrico"
+  },
+  {
+    "id": 4,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué debe hacer un conductor si el vehículo comienza a sobrecalentarse?",
+    "options": [
+      "Apagar el motor inmediatamente",
+      "Detenerse en un lugar seguro y revisar el nivel de refrigerante",
+      "Aumentar la velocidad para enfriar el motor"
+    ],
+    "answer": "Detenerse en un lugar seguro y revisar el nivel de refrigerante"
+  },
+  {
+    "id": 5,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué elemento del vehículo se encarga de limpiar el parabrisas?",
+    "options": [
+      "Los limpiaparabrisas",
+      "El líquido refrigerante",
+      "El alternador"
+    ],
+    "answer": "Los limpiaparabrisas"
+  },
+  {
+    "id": 6,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué sucede si un vehículo circula con presión insuficiente en los neumáticos?",
+    "options": [
+      "Mayor consumo de combustible",
+      "Mayor velocidad",
+      "Mejor adherencia"
+    ],
+    "answer": "Mayor consumo de combustible"
+  },
+  {
+    "id": 7,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué elemento del vehículo debe revisarse regularmente para evitar que el motor se sobrecaliente?",
+    "options": [
+      "El nivel de aceite",
+      "El nivel de refrigerante",
+      "La presión de los neumáticos"
+    ],
+    "answer": "El nivel de refrigerante"
+  },
+  {
+    "id": 8,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué se debe hacer si el testigo del aceite se enciende en el tablero?",
+    "options": [
+      "Detener el vehículo de inmediato y revisar el nivel de aceite",
+      "Seguir conduciendo hasta la próxima gasolinera",
+      "Ignorarlo si el motor funciona correctamente"
+    ],
+    "answer": "Detener el vehículo de inmediato y revisar el nivel de aceite"
+  },
+  {
+    "id": 9,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué elemento del vehículo se encarga de proporcionar energía eléctrica mientras está en marcha?",
+    "options": ["La batería", "El alternador", "El motor"],
+    "answer": "El alternador"
+  },
+  {
+    "id": 10,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué debe hacer un conductor antes de iniciar un viaje largo?",
+    "options": [
+      "Revisar los niveles de líquidos y el estado de los neumáticos",
+      "Llenar el tanque de combustible hasta el máximo",
+      "Lavar el vehículo"
+    ],
+    "answer": "Revisar los niveles de líquidos y el estado de los neumáticos"
+  },
+  {
+    "id": 11,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué significa si el testigo del motor (Check Engine) se enciende?",
+    "options": [
+      "Un posible fallo en el sistema del motor",
+      "Falta de combustible",
+      "Baja presión de los neumáticos"
+    ],
+    "answer": "Un posible fallo en el sistema del motor"
+  },
+  {
+    "id": 12,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Cada cuánto se debe cambiar el aceite del motor?",
+    "options": [
+      "Cada 5,000 a 10,000 kilómetros o según el manual del fabricante",
+      "Una vez al año",
+      "Cuando el motor empieza a hacer ruido"
+    ],
+    "answer": "Cada 5,000 a 10,000 kilómetros o según el manual del fabricante"
+  },
+  {
+    "id": 13,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué elemento del vehículo permite cambiar la dirección?",
+    "options": ["El volante", "El embrague", "El alternador"],
+    "answer": "El volante"
+  },
+  {
+    "id": 14,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué componente del vehículo se usa para arrancar el motor?",
+    "options": ["La batería", "El alternador", "El depósito de combustible"],
+    "answer": "La batería"
+  },
+  {
+    "id": 15,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué puede causar un desgaste irregular en los neumáticos?",
+    "options": [
+      "Alineación o balanceo incorrecto",
+      "Uso de gasolina de baja calidad",
+      "Frenado suave"
+    ],
+    "answer": "Alineación o balanceo incorrecto"
+  },
+  {
+    "id": 16,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué indica el humo azul que sale del escape del vehículo?",
+    "options": [
+      "Quema de aceite",
+      "Falta de gasolina",
+      "Sistema de frenos en mal estado"
+    ],
+    "answer": "Quema de aceite"
+  },
+  {
+    "id": 17,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué puede causar un fallo en los frenos?",
+    "options": [
+      "Falta de líquido de frenos o desgaste de las pastillas",
+      "Exceso de aire en los neumáticos",
+      "Aceite contaminado"
+    ],
+    "answer": "Falta de líquido de frenos o desgaste de las pastillas"
+  },
+  {
+    "id": 18,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué se debe hacer para prevenir el desgaste prematuro del embrague?",
+    "options": [
+      "Evitar mantener el pie sobre el pedal constantemente",
+      "Acelerar mientras se cambia de marcha",
+      "Usar marchas bajas en autopistas"
+    ],
+    "answer": "Evitar mantener el pie sobre el pedal constantemente"
+  },
+  {
+    "id": 19,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué componente ayuda a reducir la contaminación generada por el motor?",
+    "options": [
+      "El convertidor catalítico",
+      "El alternador",
+      "El ventilador del motor"
+    ],
+    "answer": "El convertidor catalítico"
+  },
+  {
+    "id": 20,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué sucede si un vehículo tiene el sistema de suspensión en mal estado?",
+    "options": [
+      "Disminuye el control del vehículo y la comodidad",
+      "Aumenta la velocidad máxima",
+      "Se desgastan más rápido los espejos retrovisores"
+    ],
+    "answer": "Disminuye el control del vehículo y la comodidad"
+  },
+  {
+    "id": 21,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué puede causar una vibración anormal en el volante?",
+    "options": [
+      "Desbalanceo de las ruedas",
+      "Presión alta en los neumáticos",
+      "Freno de mano activado"
+    ],
+    "answer": "Desbalanceo de las ruedas"
+  },
+  {
+    "id": 22,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué líquido es esencial para el buen funcionamiento del motor y debe revisarse periódicamente?",
+    "options": [
+      "El aceite",
+      "El líquido de frenos",
+      "El líquido limpiaparabrisas"
+    ],
+    "answer": "El aceite"
+  },
+  {
+    "id": 23,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué indica el humo negro que sale del escape?",
+    "options": [
+      "Una mezcla rica en combustible o problemas en la combustión",
+      "Problemas en el sistema de frenos",
+      "Falta de líquido refrigerante"
+    ],
+    "answer": "Una mezcla rica en combustible o problemas en la combustión"
+  },
+  {
+    "id": 24,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué componente del vehículo evita que las ruedas se bloqueen durante un frenado brusco?",
+    "options": [
+      "El sistema de frenos ABS",
+      "El convertidor catalítico",
+      "El alternador"
+    ],
+    "answer": "El sistema de frenos ABS"
+  },
+  {
+    "id": 25,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué puede indicar un ruido metálico al frenar?",
+    "options": [
+      "Desgaste de las pastillas de freno",
+      "Falta de líquido limpiaparabrisas",
+      "Aceite en mal estado"
+    ],
+    "answer": "Desgaste de las pastillas de freno"
+  },
+  {
+    "id": 26,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué puede causar un bajo rendimiento del combustible?",
+    "options": [
+      "Filtros de aire sucios o mal estado del motor",
+      "Uso de frenos ABS",
+      "Cambio frecuente de marchas"
+    ],
+    "answer": "Filtros de aire sucios o mal estado del motor"
+  },
+  {
+    "id": 27,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué se debe hacer si el vehículo no arranca y la batería está descargada?",
+    "options": [
+      "Usar cables de arranque o cargar la batería",
+      "Llenar el tanque de combustible",
+      "Usar un destornillador para encenderlo manualmente"
+    ],
+    "answer": "Usar cables de arranque o cargar la batería"
+  },
+  {
+    "id": 28,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué sistema se utiliza para cambiar de marchas en un vehículo manual?",
+    "options": [
+      "El sistema de transmisión",
+      "El alternador",
+      "El sistema de frenos"
+    ],
+    "answer": "El sistema de transmisión"
+  },
+  {
+    "id": 29,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué se debe hacer si el motor se apaga durante la conducción?",
+    "options": [
+      "Usar las luces de emergencia y maniobrar hacia un lugar seguro",
+      "Frenar inmediatamente sin señalizar",
+      "Acelerar para intentar encenderlo de nuevo"
+    ],
+    "answer": "Usar las luces de emergencia y maniobrar hacia un lugar seguro"
+  },
+  {
+    "id": 30,
+    "category": "Mecánica básica y operación del vehículo",
+    "question": "¿Qué mantenimiento preventivo se recomienda para el sistema de dirección?",
+    "options": [
+      "Revisar la alineación y el estado de las rótulas",
+      "Cambiar las pastillas de freno",
+      "Revisar el nivel del líquido de refrigerante"
+    ],
+    "answer": "Revisar la alineación y el estado de las rótulas"
+  }
+]

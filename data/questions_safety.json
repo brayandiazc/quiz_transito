@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Cuál es el nivel máximo permitido de alcohol en la sangre para conducir en Colombia?",
+    "options": [
+      "0.3 gramos por litro",
+      "0.5 gramos por litro",
+      "0.0 gramos por litro"
+    ],
+    "answer": "0.3 gramos por litro"
+  },
+  {
+    "id": 2,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué significa manejar a la defensiva?",
+    "options": [
+      "Conducir rápido para evitar accidentes",
+      "Anticipar acciones de otros conductores para evitar accidentes",
+      "Mantener una distancia mínima de 10 metros"
+    ],
+    "answer": "Anticipar acciones de otros conductores para evitar accidentes"
+  },
+  {
+    "id": 3,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué es obligatorio para los motociclistas en Colombia?",
+    "options": [
+      "Llevar guantes",
+      "Usar casco homologado",
+      "Tener un acompañante"
+    ],
+    "answer": "Usar casco homologado"
+  },
+  {
+    "id": 4,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si siente cansancio mientras maneja?",
+    "options": [
+      "Detenerse en un lugar seguro y descansar",
+      "Encender las luces de emergencia",
+      "Acelerar para llegar más rápido"
+    ],
+    "answer": "Detenerse en un lugar seguro y descansar"
+  },
+  {
+    "id": 5,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor al acercarse a un cruce peatonal con peatones cruzando?",
+    "options": [
+      "Ceder el paso",
+      "Tocar la bocina para que se apresuren",
+      "Acelerar para cruzar primero"
+    ],
+    "answer": "Ceder el paso"
+  },
+  {
+    "id": 6,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué distancia mínima debe mantenerse detrás de un vehículo en movimiento?",
+    "options": [
+      "La suficiente para detenerse con seguridad",
+      "1 metro",
+      "2 metros"
+    ],
+    "answer": "La suficiente para detenerse con seguridad"
+  },
+  {
+    "id": 7,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Cuándo es obligatorio el uso del cinturón de seguridad?",
+    "options": [
+      "Solo en carreteras",
+      "En todo momento y para todos los ocupantes",
+      "Solo para el conductor"
+    ],
+    "answer": "En todo momento y para todos los ocupantes"
+  },
+  {
+    "id": 8,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué deben usar los niños menores de 10 años en el vehículo?",
+    "options": [
+      "Cinturón de seguridad estándar",
+      "Sistema de retención infantil adecuado",
+      "Nada, si van en el asiento trasero"
+    ],
+    "answer": "Sistema de retención infantil adecuado"
+  },
+  {
+    "id": 9,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué se debe hacer al conducir en condiciones de lluvia intensa?",
+    "options": [
+      "Aumentar la velocidad para evitar el agua",
+      "Reducir la velocidad y aumentar la distancia con otros vehículos",
+      "Usar las luces altas"
+    ],
+    "answer": "Reducir la velocidad y aumentar la distancia con otros vehículos"
+  },
+  {
+    "id": 10,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué se debe hacer al circular de noche en una carretera sin iluminación?",
+    "options": [
+      "Usar luces bajas permanentemente",
+      "Usar luces altas, alternando con bajas si hay otros vehículos",
+      "Mantener solo las luces de posición encendidas"
+    ],
+    "answer": "Usar luces altas, alternando con bajas si hay otros vehículos"
+  },
+  {
+    "id": 11,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor al manejar en una zona escolar?",
+    "options": [
+      "Reducir la velocidad y estar atento a los niños",
+      "Tocar la bocina para advertir su presencia",
+      "Acelerar para cruzar rápidamente"
+    ],
+    "answer": "Reducir la velocidad y estar atento a los niños"
+  },
+  {
+    "id": 12,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe evitar un conductor al conducir en condiciones de niebla densa?",
+    "options": [
+      "Usar luces bajas y reducir la velocidad",
+      "Usar luces altas",
+      "Mantener las ventanas cerradas"
+    ],
+    "answer": "Usar luces altas"
+  },
+  {
+    "id": 13,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si otro vehículo intenta adelantarlo?",
+    "options": [
+      "Aumentar la velocidad",
+      "Facilitar el adelantamiento",
+      "Moverse al carril contrario"
+    ],
+    "answer": "Facilitar el adelantamiento"
+  },
+  {
+    "id": 14,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si encuentra un animal en la carretera?",
+    "options": [
+      "Reducir la velocidad y esquivarlo si es seguro",
+      "Tocar la bocina y mantener la velocidad",
+      "Acelerar para evitar el impacto"
+    ],
+    "answer": "Reducir la velocidad y esquivarlo si es seguro"
+  },
+  {
+    "id": 15,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué se debe hacer al conducir cuesta abajo para mantener el control del vehículo?",
+    "options": [
+      "Usar el freno constantemente",
+      "Usar marchas bajas y frenar intermitentemente",
+      "Acelerar para ganar impulso"
+    ],
+    "answer": "Usar marchas bajas y frenar intermitentemente"
+  },
+  {
+    "id": 16,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué se debe hacer si un neumático se revienta mientras se conduce?",
+    "options": [
+      "Frenar de inmediato",
+      "Sujetar el volante firmemente y reducir la velocidad gradualmente",
+      "Acelerar para estabilizar el vehículo"
+    ],
+    "answer": "Sujetar el volante firmemente y reducir la velocidad gradualmente"
+  },
+  {
+    "id": 17,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor al enfrentarse a un charco grande en la carretera?",
+    "options": [
+      "Cruzar lentamente para evitar salpicaduras",
+      "Acelerar para pasar rápido",
+      "Evitar el charco si es posible"
+    ],
+    "answer": "Evitar el charco si es posible"
+  },
+  {
+    "id": 18,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué significa el término 'aquaplaning'?",
+    "options": [
+      "Perder el control al pasar sobre agua acumulada",
+      "Conducir en agua poco profunda",
+      "Tener un accidente en la lluvia"
+    ],
+    "answer": "Perder el control al pasar sobre agua acumulada"
+  },
+  {
+    "id": 19,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si sus frenos fallan mientras conduce?",
+    "options": [
+      "Usar el freno de mano bruscamente",
+      "Reducir marchas y usar el freno de mano gradualmente",
+      "Acelerar para estabilizar el vehículo"
+    ],
+    "answer": "Reducir marchas y usar el freno de mano gradualmente"
+  },
+  {
+    "id": 20,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor al manejar en una pendiente pronunciada?",
+    "options": [
+      "Usar marchas bajas para mayor control",
+      "Acelerar para evitar retrocesos",
+      "Usar el freno constantemente"
+    ],
+    "answer": "Usar marchas bajas para mayor control"
+  },
+  {
+    "id": 21,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si observa un ciclista en la vía?",
+    "options": [
+      "Ceder el paso y mantener una distancia de 1.5 metros al adelantar",
+      "Tocar la bocina para advertirle",
+      "Adelantarlo rápidamente sin reducir la velocidad"
+    ],
+    "answer": "Ceder el paso y mantener una distancia de 1.5 metros al adelantar"
+  },
+  {
+    "id": 22,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué se recomienda al conducir durante un largo trayecto?",
+    "options": [
+      "Hacer paradas regulares para descansar",
+      "Mantener una velocidad constante sin detenerse",
+      "Tomar bebidas energéticas para mantenerse despierto"
+    ],
+    "answer": "Hacer paradas regulares para descansar"
+  },
+  {
+    "id": 23,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor cuando un peatón se encuentra cruzando fuera de un paso peatonal?",
+    "options": [
+      "Reducir la velocidad y ceder el paso",
+      "Ignorar al peatón y continuar",
+      "Tocar la bocina para que se detenga"
+    ],
+    "answer": "Reducir la velocidad y ceder el paso"
+  },
+  {
+    "id": 24,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué tipo de calzado no se recomienda usar al conducir?",
+    "options": [
+      "Zapatos deportivos",
+      "Sandalias o tacones altos",
+      "Zapatos cerrados con suela plana"
+    ],
+    "answer": "Sandalias o tacones altos"
+  },
+  {
+    "id": 25,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué es lo primero que debe hacer un conductor al abordar su vehículo?",
+    "options": [
+      "Ajustar el asiento y los espejos",
+      "Encender el motor inmediatamente",
+      "Colocar el cinturón de seguridad mientras maneja"
+    ],
+    "answer": "Ajustar el asiento y los espejos"
+  },
+  {
+    "id": 26,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si experimenta distracciones al volante?",
+    "options": [
+      "Dejar el dispositivo o actividad que lo distrae y concentrarse en la conducción",
+      "Continuar manejando y terminar lo que lo distrae",
+      "Reducir la velocidad pero seguir usando el dispositivo"
+    ],
+    "answer": "Dejar el dispositivo o actividad que lo distrae y concentrarse en la conducción"
+  },
+  {
+    "id": 27,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor al conducir en una carretera con mucho tráfico?",
+    "options": [
+      "Mantener la calma y respetar las señales de tránsito",
+      "Usar la bocina frecuentemente para avanzar",
+      "Cambiar de carril constantemente para adelantar"
+    ],
+    "answer": "Mantener la calma y respetar las señales de tránsito"
+  },
+  {
+    "id": 28,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué significa conducir de manera preventiva?",
+    "options": [
+      "Anticipar posibles riesgos en la vía y actuar con precaución",
+      "Acelerar para evitar accidentes",
+      "Usar siempre las luces altas para alertar a otros"
+    ],
+    "answer": "Anticipar posibles riesgos en la vía y actuar con precaución"
+  },
+  {
+    "id": 29,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué debe hacer un conductor si el motor de su vehículo se apaga repentinamente mientras está en marcha?",
+    "options": [
+      "Encender las luces de emergencia y maniobrar hacia un lugar seguro",
+      "Tocar la bocina para advertir a otros conductores",
+      "Detenerse inmediatamente en el carril donde está"
+    ],
+    "answer": "Encender las luces de emergencia y maniobrar hacia un lugar seguro"
+  },
+  {
+    "id": 30,
+    "category": "Seguridad vial y conducción responsable",
+    "question": "¿Qué medida debe tomar un conductor al llevar una carga en su vehículo?",
+    "options": [
+      "Asegurarla adecuadamente para evitar que se desplace",
+      "Llevarla sin restricciones si es ligera",
+      "Usar cualquier tipo de cuerda para fijarla"
+    ],
+    "answer": "Asegurarla adecuadamente para evitar que se desplace"
+  }
+]
