@@ -15,15 +15,15 @@ Este proyecto es un cuestionario interactivo que:
 
 ### Vista principal:
 
-![Inicio](imagenes/home.png)
+![Inicio](assets/img/home.jpeg)
 
 ### Pantalla de cuestionario:
 
-![Cuestionario](imagenes/quiz.png)
+![Cuestionario](assets/img/quiz.jpeg)
 
 ### Resultados:
 
-![Resultados](imagenes/results.png)
+![Resultados](assets/img/results.jpeg)
 
 ## Prerrequisitos o Dependencias
 
