@@ -147,8 +147,9 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!performance[category]) {
       performance[category] = { correct: 0, incorrect: 0 };
     }
-    performance[category].correct += score;
-    performance[category].incorrect += questions.length - score;
+    // Actualizar las estadísticas de la categoría específica
+    performance[category].correct = score;
+    performance[category].incorrect = questions.length - score;
 
     localStorage.setItem("performance", JSON.stringify(performance));
 
