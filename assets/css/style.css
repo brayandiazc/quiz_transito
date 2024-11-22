@@ -1,0 +1,16 @@
+#result-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.result-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #f9f9f9;
+}
+
+.result-item p {
+  margin: 0.5rem 0;
+}

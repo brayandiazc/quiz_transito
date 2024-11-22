@@ -3,45 +3,72 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
+    <!-- Estilo con Pico.css -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.10/css/pico.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
     <title>Quiz de Tránsito</title>
   </head>
   <body>
-    <div id="app">
-      <!-- Pantalla de inicio -->
-      <div id="start-screen">
-        <h1>¡Bienvenido al Quiz de Tránsito!</h1>
-        <label for="username">Ingresa tu nombre:</label>
-        <input type="text" id="username" placeholder="Tu nombre" />
-        <label for="category">Selecciona una categoría:</label>
-        <select id="category">
-          <option value="questions_signals">Señales de tránsito</option>
-          <option value="questions_norms">Normas de tránsito</option>
-          <option value="questions_safety">Seguridad vial</option>
-          <option value="questions_mechanics">Mecánica básica</option>
-          <option value="questions_penalties">Multas y sanciones</option>
-        </select>
-        <button id="start-btn">Iniciar</button>
+    <nav class="navbar">
+      <div class="container">
+        <a href="#" class="navbarbrand">Quiz de Tránsito</a>
       </div>
+    </nav>
+    <main id="app" class="container">
+      <!-- Pantalla de inicio -->
+      <section id="start-screen">
+        <header>
+          <h1>¡Bienvenido al Quiz de Tránsito!</h1>
+        </header>
+        <form>
+          <label for="username">Ingresa tu nombre:</label>
+          <input type="text" id="username" placeholder="Tu nombre" required />
+          <label for="category">Selecciona una categoría:</label>
+          <select id="category" required>
+            <option value="questions_signals">Señales de tránsito</option>
+            <option value="questions_norms">Normas de tránsito</option>
+            <option value="questions_safety">Seguridad vial</option>
+            <option value="questions_mechanics">Mecánica básica</option>
+            <option value="questions_penalties">Multas y sanciones</option>
+          </select>
+          <button type="button" id="start-btn" class="primary">Iniciar</button>
+        </form>
+      </section>
 
       <!-- Pantalla del cuestionario -->
-      <div id="quiz-screen" style="display: none">
-        <h2 id="question-title"></h2>
+      <section id="quiz-screen" style="display: none">
+        <header>
+          <h2 id="question-title"></h2>
+        </header>
         <p id="question-counter"></p>
         <!-- Contador de preguntas -->
-        <div id="options-container"></div>
-        <button id="next-btn" disabled>Siguiente</button>
-      </div>
+        <div id="options-container" class="grid"></div>
+        <footer>
+          <button type="button" id="next-btn" class="secondary" disabled>
+            Siguiente
+          </button>
+        </footer>
+      </section>
 
       <!-- Pantalla de resultados -->
-      <div id="result-screen" style="display: none">
-        <h2>Resultado Final</h2>
+      <section id="result-screen" style="display: none">
+        <header>
+          <h2>Resultado Final</h2>
+        </header>
         <p id="score"></p>
         <h3>Resumen de tus respuestas:</h3>
-        <div id="result-details"></div>
-        <button id="restart-btn">Reiniciar</button>
-      </div>
-    </div>
+        <div id="result-details" class="grid"></div>
+        <br />
+        <footer>
+          <button type="button" id="restart-btn" class="secondary">
+            Reiniciar
+          </button>
+        </footer>
+      </section>
+    </main>
 
     <script src="app.js"></script>
   </body>
